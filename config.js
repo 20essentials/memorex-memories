@@ -1,0 +1,23 @@
+export const nameBand = 'MEMOREX MEMORIES';
+export let nameSongs = [
+	"PICTURES OF PURPLE SKIES", /*1*/
+	"IN MOTION", /*2*/
+	"I FORGOT ABOUT THE STARS", /*3*/
+	"ARRIVAL", /*4*/
+	"AMBERVISION", /*5*/
+	"VIOLET", /*6*/
+	"MOTHERS LULLABY", /*7*/
+	"DEPARTURE", /*8*/
+	"FATHOM", /*9*/
+	"EBB AND FLOW", /*10*/
+	"MIDNIGHT MADONNA ", /*11*/
+	"PICK ME UP", /*12*/
+	"THE LIFE OF RILEY", /*13*/
+	"UNDER THE TREE", /*14*/
+	"CHERRY BLOSSOM", /*15*/
+	"BEACON HILL", /*16*/
+	"FLIGHT OF THE MOTH", /*17*/
+	"COUNTING RAIN DROPS", /*18*/
+	"FREE FALLING", /*19*/
+	"HEAD FULL OF SNOW", /*20*/
+]
